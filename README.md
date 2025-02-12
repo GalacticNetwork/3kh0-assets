@@ -29,11 +29,11 @@ If you want to use these for your own projects, I would just like to ask a few t
 
 ### Embedding
 
-The base URL for the CDN is https://cdn.canvaslms.site/GalacticNetwork/3kh0-assets/main/
+The base URL for the CDN is https://raw.githack.com/GalacticNetwork/3kh0-assets/main/
 
 SO pretty much just add the folder of the game you want, say 2048, the url would be
 ```
-https://cdn.canvaslms.site/GalacticNetwork/3kh0-assets/main/2048/index.html
+https://raw.githack.com/GalacticNetwork/3kh0-assets/main/2048/index.html
 ```
 And you would replace `2048` with the title of the folder, this is the best method since the game would be up-to-date always, in case of something like a update or something breaks.
 
